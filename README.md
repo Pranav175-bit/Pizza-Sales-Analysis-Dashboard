@@ -151,7 +151,7 @@ This dashboard provides a clear overview of pizza sales performance and helps id
 
 The insights from this dashboard can support business decisions related to sales strategy, product performance, customer demand patterns, and menu optimization.
 ---
----
+
 ## Author
 
 Created by **Pranav P A**
