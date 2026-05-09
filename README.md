@@ -145,11 +145,13 @@ Pizza-Sales-Analysis-Dashboard/
     └── best-worst-sellers.png
 ```
 ---
+
 ## Conclusion
 
 This dashboard provides a clear overview of pizza sales performance and helps identify important business insights such as revenue trends, order patterns, category contribution, size contribution, and product-level performance.
 
 The insights from this dashboard can support business decisions related to sales strategy, product performance, customer demand patterns, and menu optimization.
+
 ---
 
 ## Author
